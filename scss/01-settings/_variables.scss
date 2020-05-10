@@ -1,0 +1,27 @@
+// kolory z koła kolorów Adobe
+$color1: #eff0f3;
+$color2: #74030e;
+$color3: #132601;
+
+$color-white: $color1;
+$color-red: $color2;
+$color-green: $color3;
+
+// kolor tła wybranych sekcji
+$color-bg-section: #504533;
+
+// kolor tła stopki
+$color-bg-footer: #201b13;
+
+// wielkość bazowa fontów
+$font-base: 10px;
+
+// grid - siatka
+$grid-base: $font-base;
+
+// odstęp pomiędzy kolumnami
+$gutter: 1.5 * $grid-base;
+
+// breakpoints dla RWD
+$bp-md: 768px;
+$bp-lg: 1024px;
